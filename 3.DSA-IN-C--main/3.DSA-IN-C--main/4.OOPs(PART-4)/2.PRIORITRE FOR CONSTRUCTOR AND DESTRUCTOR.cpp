@@ -5,7 +5,7 @@ class parent
 {
 	public:
 		parent()
-		{
+{
 			cout<<"constructor of parent\n"<<endl;
 		}
 		~parent()
