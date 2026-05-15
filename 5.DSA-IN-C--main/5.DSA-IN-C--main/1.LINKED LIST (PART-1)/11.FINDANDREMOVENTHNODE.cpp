@@ -128,7 +128,7 @@ class list
      {
         int size=getsize();
         node* prev = head;
-        for(int i=0; i<(size-n);i++)
+        for(int i=0; i<(size-n-1);i++)
         {
             prev=prev->next;
         }
